@@ -139,12 +139,12 @@ p,span,li,a{
     .upper p{
         font-size: 10px;
         color: black;
-        line-height:3px;
+        line-height:6px;
     }
 
     .upper h2{
         position: relative;
-        font-size: 20px;
+        font-size: 18px;
         margin-bottom: 0px;
         font-weight: 800;
     }
