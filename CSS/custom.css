@@ -148,6 +148,7 @@ p,span,li,a{
     }
 
     .upper h2{
+        position: relative;
         font-size: 20px;
         margin-bottom: 0px;
         font-weight: 800;
