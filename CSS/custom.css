@@ -94,6 +94,18 @@ p,span,li,a{
     background-position:center ;
 }
 
+#slide7{
+    background: url('../image/image9.png');
+    background-size: cover;
+    background-position:center ;
+}
+
+.igLogo{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -250px;
+
+}
 
 .nav2{
     position: absolute;
