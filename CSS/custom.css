@@ -188,4 +188,17 @@ p,span,li,a{
        
     }
     
+        .igLogo{
+        max-width:80%;
+        height: auto;
+        
+    }
+    
+    .wtsLogo{
+        max-width:80%;
+        height: auto;
+    
+    }
+    
+    
 }
