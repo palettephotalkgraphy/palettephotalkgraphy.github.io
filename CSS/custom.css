@@ -101,17 +101,16 @@ p,span,li,a{
 }
 
 .igLogo{
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 150px;
-
+    max-width:80%;
+    height: auto;
+        
 }
-
+    
 .wtsLogo{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 200px;
-
+    max-width:80%;
+    height: auto;
+    
 }
 
 .nav2{
@@ -188,17 +187,7 @@ p,span,li,a{
        
     }
     
-        .igLogo{
-        max-width:80%;
-        height: auto;
-        
-    }
-    
-    .wtsLogo{
-        max-width:80%;
-        height: auto;
-    
-    }
+
     
     
 }
